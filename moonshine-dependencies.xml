@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <label>Moonshine-IDE Example Projects</label>
+    <description>Example projects to try different features of Moonshine-IDE.</description>
+    <dependenciesVersion>1.0.0</dependenciesVersion>
+    <dependencies>
+        <dependency>
+            <label>Basic Royale Examples</label>
+            <repo-type>git</repo-type>
+            <url>https://github.com/Moonshine-IDE/Royale-Examples</url>
+            <description>Simple examples of Apache Royale™</description>
+        </dependency>
+        <dependency>
+            <label>Run Royale with Vagrant</label>
+            <repo-type>git</repo-type>
+            <url>https://github.com/Moonshine-IDE/Royale-Examples</url>
+            <description>Simple Vagrant example which will run a server with an Apache Royale™ project.</description>
+        </dependency>
+        <dependency>
+            <label>Basic HCL Domino API Example</label>
+            <repo-type>git</repo-type>
+            <url>https://github.com/Moonshine-IDE/DominoAPILocalExample</url>
+            <description>Build an example Java Domino application and run it locally.</description>
+        </dependency>
+    </dependencies>
+</root>
