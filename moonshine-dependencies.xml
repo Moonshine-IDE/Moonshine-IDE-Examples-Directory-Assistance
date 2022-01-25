@@ -13,7 +13,7 @@
         <dependency>
             <label>Run Royale with Vagrant</label>
             <repo-type>git</repo-type>
-            <url>https://github.com/Moonshine-IDE/Royale-Examples</url>
+            <url>https://github.com/Moonshine-IDE/VagrantRoyaleExample</url>
             <description>Simple Vagrant example which will run a server with an Apache Royale™ project.</description>
         </dependency>
         <dependency>
